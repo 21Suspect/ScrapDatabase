@@ -1,5 +1,7 @@
 # Scrap Mechanic Item Database
 
+![Screenshot](https://github.com/21Suspect/ScrapDatabase/raw/main/ScrapDatabase.png)
+
 This project is a GUI-based application for managing and searching through item databases in the game Scrap Mechanic. It allows users to load JSON item data, search through various attributes, filter items, and save or manage the data in an intuitive interface.
 
 ## Features
