@@ -41,6 +41,10 @@ You can download the compiled executable version of ScrapDatabase if you prefer 
 
 - **[Download ScrapDatabase.exe](https://github.com/21Suspect/ScrapDatabase/releases/download/v1.0/ScrapDatabase.exe)**
 
+## Screenshot
+
+![Screenshot](https://github.com/21Suspect/ScrapDatabase/raw/main/ScrapDatabase.jpg)
+
 ## Usage
 - **Loading Items**: The program will load items from the specified `paths` variable in the script. You can modify these paths manually in the script or through the settings window within the application.
 - **Searching**: Enter a search term in the search bar to filter items based on different attributes (e.g., name, UUID, material).
@@ -56,20 +60,6 @@ You can download the compiled executable version of ScrapDatabase if you prefer 
 - **Compatibility**: This program is developed for Windows systems, as it uses specific file paths pointing to the `Scrap Mechanic` directories.
 - **JSON Data**: Ensure that the paths provided in `paths` contain valid JSON files that match the expected structure for the program to function correctly.
 - **Error Handling**: The program skips over JSON files with incorrect formatting or errors during parsing.
-
-## Uploading ScrapDatabase.exe to GitHub
-To upload the `ScrapDatabase.exe` file for others to download, follow these steps:
-
-1. **Create a Release on GitHub**:
-   - Go to your repository on GitHub.
-   - Click on the **Releases** tab (usually found on the right side of the main page).
-   - Click **Draft a new release**.
-   - Fill in the **tag version** (e.g., `v1.0`), add a **title** (e.g., `Initial Release`), and provide a brief **description** of the release.
-   - Click on **Attach binaries by dropping them here or selecting them** to upload `ScrapDatabase.exe`.
-   - Finally, click **Publish release**.
-
-2. **Link the Release**:
-   - Once the release is published, you will get a download link for `ScrapDatabase.exe`. You can add this link to your README file for easy access.
 
 ## Contribution
 Feel free to contribute to this project by forking the repository and submitting pull requests. If you encounter any issues, please open an issue in the GitHub repository.
